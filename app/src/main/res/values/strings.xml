@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">RoomApp</string>
+    <string name="mar">Marvel</string>
+    <string name="cd">CD</string>
+    <string name="title">Lucha de Poder</string>
+    <string name="poder_del_heroe">Poder del Heroe</string>
+    <string name="nombre_del_heroe">Nombre del Heroe</string>
 </resources>
